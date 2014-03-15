@@ -1,0 +1,16 @@
+{
+  "name": "wilder",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dreamline2/wilder",
+  "authors": [
+    "wilson <wilson20120311@gmail.com>"
+  ],
+  "description": "Take it easy to use slideshow",
+  "keywords": [
+    "slideshow"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.0"
+  }
+}

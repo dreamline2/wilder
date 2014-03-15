@@ -1,0 +1,22 @@
+{
+  "name": "wilder",
+  "version": "0.0.0",
+  "description": "Take it easy to use slideshow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamline2/wilder.git"
+  },
+  "keywords": [
+    "slideshow"
+  ],
+  "author": "wilson",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dreamline2/wilder/issues"
+  },
+  "homepage": "https://github.com/dreamline2/wilder"
+}
